@@ -1,7 +1,9 @@
 # barbershop
  A barbershop website
-
-Preview :
+ 
+ 
+ 
+ 
 
 # home page
 
